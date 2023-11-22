@@ -20,7 +20,7 @@ My name is Leo and I'm a Computer Science student by UFJF.
 
 <div align="center"> 
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leo-prata&theme=tokyonight&count_private=true" alt="ilustração da leitura de linguagens de programação no perfil"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leo-prata&show_icons=true&theme=tokyonight&count_private=true" alt="ilustração da leitura de linguagens de programação no perfil"/>
 
  
 
