@@ -3,7 +3,8 @@
 
 My name is Leo and I'm a Computer Science student by UFJF.
 
-- 👨‍💻 Enthusiast of back-end learning
+- 👨‍💻 Enthusiast of Web Developmnet learning
+- 🎯 Challenging myself to create systems integrating backend and frontend
 - 🧠 Learning and researching about neuroscience and BCI
 ---
 <div>
