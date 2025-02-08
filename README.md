@@ -1,13 +1,18 @@
 
+<img src = "icon.png" width=29% height=29% align=right>
+<br />
 
 
-Hi! I'm Leo 👋
+
+Hi!
+
 
 I am a Computer Science student at the Federal University of Juiz de Fora (UFJF) with a strong passion for web application development. Currently pursuing my degree, I am deeply engaged in learning and applying technologies such as Node.js, React, and Next.js.
-
-
-<img src = "icon.png" width=33% align=right>
 <br />
+<br />
+<br />
+<br />
+
 ## About Me
 
 - 🎓 Studying Computer Science at UFJF, focusing on web technologies and software engineering.
