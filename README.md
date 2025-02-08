@@ -15,11 +15,16 @@ I am a Computer Science student at the Federal University of Juiz de Fora (UFJF)
 
 ## About Me
 
-- 🎓 Studying Computer Science at UFJF, focusing on web technologies and software engineering.
-- 💻 Proficient in Node.js for backend development and React/Next.js for frontend development.
-- 🌟 Always eager to take on new challenges and opportunities to enhance my skills.
-- 🚀 Passionate about contributing to innovative projects that push boundaries and solve real-world problems.
-- 🧠 Learning and researching about neuroscience and BCI
+ ✧ Studying Computer Science at UFJF, focusing on web technologies and software engineering. 
+ 
+ ✧ Proficient in Node.js for backend development and React/Next.js for frontend development.
+ 
+ ✧ Always eager to take on new challenges and opportunities to enhance my skills.
+ 
+ ✧ Passionate about contributing to innovative projects that push boundaries and solve real-world problems.
+ 
+ ✧ Learning and researching about neuroscience and BCI
+ 
 ---
 <div>
 <img src = "https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" width=7%>&nbsp;
