@@ -1,10 +1,12 @@
 
 
 
-<img src = "puffleeee.png" width=33% align=right>
+<img src = "icon.png" width=33% align=right>
 <br />
-
-
+<br />
+<br />
+<br />
+<br />
 
 Hi! I'm Leo 👋
 
