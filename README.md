@@ -33,9 +33,13 @@ I am a Computer Science student at the Federal University of Juiz de Fora (UFJF)
 
 ---
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leo-prata&theme=dark&show_icons=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leo-prata&layout=compact&theme=dark&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=leo-prata&theme=dark&show_icons=true&hide=stars" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leo-prata&layout=compact&theme=dark&langs_count=6" />
+  </a>
+</div>
 
 
