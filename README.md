@@ -43,7 +43,7 @@ I am a Computer Science student at the Federal University of Juiz de Fora (UFJF)
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=leo-prata&theme=ambient_gradient&show_icons=true&hide=stars&bg_color=111111" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leo-prata&layout=compact&theme=ambient_gradient&langs_count=6&bg_color=111111" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leo-prata&layout=compact&theme=ambient_gradient&langs_count=6&bg_color=111111&hide=ejs,scss,java" />
   </a>
 </div>
 
