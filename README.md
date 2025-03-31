@@ -23,7 +23,7 @@ I am a Computer Science student at the Federal University of Juiz de Fora (UFJF)
  
  ✧ Passionate about contributing to innovative projects that push boundaries and solve real-world problems.
  
- ✧ Learning and researching about neuroscience and BCI
+ ✧ Learning and researching about cybersecurity
  
 ---
 <div>
