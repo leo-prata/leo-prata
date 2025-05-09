@@ -32,7 +32,6 @@ I am a Computer Science student at the Federal University of Juiz de Fora (UFJF)
 <img src = "https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg" width=7%>&nbsp;
  <img src = "https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg" width=7%>&nbsp;
 <img src = "https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width=7%>&nbsp;
- <img src = "https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" width=7%>&nbsp;
 <img src = "https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" width=7%>&nbsp;
 <img src = "https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg" width=7%>&nbsp;
 </div>
